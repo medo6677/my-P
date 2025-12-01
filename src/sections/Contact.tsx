@@ -16,12 +16,6 @@ export const Contact = () => {
         setLoading(true);
         setError(false);
 
-        // REPLACE THESE WITH YOUR ACTUAL EMAILJS KEYS
-        // Sign up at https://www.emailjs.com/
-        // 1. Create a Service (e.g., Gmail) -> Get Service ID
-        // 2. Create a Template -> Get Template ID
-        // 3. Account -> API Keys -> Get Public Key
-
         const SERVICE_ID = 'service_9gjtrrf';
         const TEMPLATE_ID = 'template_eifz7fb';
         const PUBLIC_KEY = 'Q11ep9euKKGxriK51';

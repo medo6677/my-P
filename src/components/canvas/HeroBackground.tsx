@@ -5,14 +5,12 @@ import { Points, PointMaterial } from '@react-three/drei';
 const Stars = (props: any) => {
     const ref = useRef<any>(null);
 
-    // Generate random points in a sphere manually
     const sphere = useMemo(() => {
         const numPoints = 5000;
-        const positions = new Float32Array(numPoints * 3); // x, y, z for each point
+        const positions = new Float32Array(numPoints * 3);
         const radius = 1.5;
 
         for (let i = 0; i < numPoints; i++) {
-            // Generate random point in sphere using spherical coordinates
             const theta = Math.random() * 2 * Math.PI;
             const phi = Math.acos(2 * Math.random() - 1);
             const r = radius * Math.cbrt(Math.random());

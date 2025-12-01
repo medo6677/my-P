@@ -1,7 +1,7 @@
 import { SectionWrapper } from '../components/ui/SectionWrapper';
 import content from '../data/content.json';
 import { motion } from 'framer-motion';
-import { Code, Palette, Video, BookOpen, Users, Clock, Layout, Smartphone, PenTool, Atom, Database } from 'lucide-react';
+import { Code, Palette, Video, BookOpen, Users, Clock, Layout, Smartphone, PenTool, Atom, Database, Sparkles } from 'lucide-react';
 
 const iconMap: Record<string, any> = {
     "Web Design": Layout,
@@ -17,6 +17,7 @@ const iconMap: Record<string, any> = {
     "Canva": PenTool,
     "React": Atom,
     "Supabase": Database,
+    "AI Tools": Sparkles,
     "Photoshop": Palette
 };
 
