@@ -7,7 +7,7 @@ export const Footer = () => {
             <div className="container mx-auto px-6">
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     <div className="mb-6 md:mb-0 text-center md:text-left">
-                        <h3 className="text-2xl font-bold text-gradient mb-2">Mohamed A.</h3>
+                        <h3 className="text-2xl font-bold text-gradient mb-2">Mohamed A. AbdElfattah</h3>
                         <p className="text-gray-400">Building digital experiences that matter.</p>
                     </div>
 
