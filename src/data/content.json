@@ -1,0 +1,105 @@
+{
+    "hero": {
+        "name": "Mohamed A. AbdElfattah",
+        "title": "Web Developer",
+        "email": "Mohamadahmad3669@gmail.com",
+        "phone": "+201222306014"
+    },
+    "about": {
+        "title": "About Me",
+        "description": "I'm Mohamed, a Web Designer with 2 years of experience. I graduated from Benha University, Faculty of Specific Education – Educational Technology. I build fast, responsive, and SEO-friendly websites with modern UI/UX. Every project comes with 3 months of free support to ensure the best results.",
+        "image": "/me.png"
+    },
+    "education": [
+        {
+            "title": "Web Design Diploma",
+            "institution": "Creativa NTI",
+            "details": "120 hours (30 hours Freelance)",
+            "date": "Completed Sept 2025",
+            "description": ""
+        },
+        {
+            "title": "Bachelor's Degree in Educational Technology",
+            "institution": "Benha University",
+            "details": "Ranked 1st in the Class of 2025",
+            "date": "2021–2025",
+            "description": ""
+        }
+    ],
+    "skills": [
+        "web development",
+        "Video editing",
+        "E-book design",
+        "Team Work",
+        "Time management"
+    ],
+    "tools": [
+        "HTML",
+        "CSS",
+        "Media Query",
+        "Bootstrap",
+        "Tailwind",
+        "Canva",
+        "React",
+        "Supabase",
+        "Photoshop"
+    ],
+    "projects": [
+        {
+            "title": "BarberFlow",
+            "description": "A web-based inventory and reports management system for barbershops, built with clean UI and efficient data handling.",
+            "image": "/p3.png",
+            "url": "#"
+        },
+        {
+            "title": "The Ancient Egypt Tour",
+            "description": "A simple interactive web tour of the Grand Egyptian Museum with clean design and smooth navigation.",
+            "image": "/p2.png",
+            "url": "https://medo6677.github.io/Egyptian-Museum/"
+        },
+        {
+            "title": "GadgetHub",
+            "description": "A sleek product showcase website highlighting modern gadgets with intuitive navigation and clean UI..",
+            "image": "/p1.png",
+            "url": "https://medo6677.github.io/GADGETIZE/"
+        },
+        {
+            "title": "! soon .....",
+            "description": "More projects are coming soon!"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Dr. Hany Abou Elftouh",
+            "feedback": "Professional, fast, and understood my requirements perfectly. Highly recommended."
+        },
+        {
+            "name": "Reem Adel – Publishing House",
+            "feedback": "Excellent quality and smooth communication. Always delivers reliably."
+        }
+    ],
+    "services": [
+        {
+            "title": "Web Design",
+            "description": "Create attractive, user-friendly layouts"
+        },
+        {
+            "title": "Fully responsive",
+            "description": "Websites that look great on all devices"
+        },
+        {
+            "title": "Website updates & refresh services",
+            "description": "Keep your site modern and secure"
+        }
+    ],
+    "contact": {
+        "phone": "+201222306014",
+        "email": "Mohamadahmad3669@gmail.com",
+        "location": "Benha, EG",
+        "socials": {
+            "facebook": "https://www.facebook.com/maha.adel.9085790",
+            "whatsapp": "+201222306014",
+            "instagram": "https://www.instagram.com/b7_r_0/"
+        }
+    }
+}
