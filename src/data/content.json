@@ -48,6 +48,12 @@
     "projects": [
         {
             "title": "BarberFlow",
+            "description": "Salon-Plus is a web platform for managing a barber shop’s bookings, services and inventory seamlessly.",
+            "image": "/p4.png",
+            "url": "https://salon-plus-eta.vercel.app/"
+        },
+        {
+            "title": "BarberFlow",
             "description": "A web-based inventory and reports management system for barbershops, built with clean UI and efficient data handling.",
             "image": "/p3.png",
             "url": "#"
